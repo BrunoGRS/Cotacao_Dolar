@@ -10,4 +10,6 @@ no momento autal.
 
 Possui interface grática feita através do PySimpleGUI.
 
+Aplicação sendo usada atualmente pela empresa Prevemax.
+
 Direitos Reservados para Bruno Rodrigues.
